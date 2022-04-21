@@ -14,7 +14,7 @@ Auteur du Porjet:
 KIM Injin
 MARCHESI Maxime
 
-c'est notre menu créer grace à l'aide du template Fragment
+c'est notre menu créer grace à l'aide du template Fragment /n
 ![image](https://user-images.githubusercontent.com/85158683/164440030-6814b91d-5444-4dd8-8543-1bc780971e5e.png)
 
 c'est un GridLayout en ajoutant 9 drapeaux
