@@ -13,18 +13,15 @@ https://github.com/Massimo97/Kotline
 
 Auteur du Porjet:
 KIM Injin
-MARCHESI Maxime \ 
+MARCHESI Maxime
 
 -c'est notre menu créer grace à l'aide du template Fragment \ 
-
 ![image](https://user-images.githubusercontent.com/85158683/164440030-6814b91d-5444-4dd8-8543-1bc780971e5e.png)
 
 -c'est un GridLayout en ajoutant 9 drapeaux \ 
-
 ![image](https://user-images.githubusercontent.com/85158683/164440373-03209911-fdc5-42bc-b37c-45abcbd2252c.png)
 
 -presentation du Projet \ 
-
 ![image](https://user-images.githubusercontent.com/85158683/164440571-0083364a-fb45-42f8-b9e7-993c0a7de2fe.png)
 
 -c'est un Grid avec CardView  \ 
