@@ -6,7 +6,7 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_home"
-            android:title="ACCUEIL" />
+            android:title="FLAGS" />
         <item
             android:id="@+id/nav_about"
             android:title="A PROPOS" />
