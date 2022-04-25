@@ -8,7 +8,7 @@
     <fragment
         android:id="@+id/nav_home"
         android:name="com.example.kotlin_b2.ui.home.HomeFragment"
-        android:label="Accueil"
+        android:label="FLAGS"
         tools:layout="@layout/fragment_home" />
 
     <fragment
